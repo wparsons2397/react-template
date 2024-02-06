@@ -60,3 +60,11 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
+#template-text {
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #333;
+  margin: 20px;
+  padding: 0;
+}
