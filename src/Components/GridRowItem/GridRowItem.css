@@ -1,0 +1,6 @@
+.GridRowItem {
+    /* display: flex; */
+    color: black;
+    margin: 10px;
+    min-width: 200px;
+}
